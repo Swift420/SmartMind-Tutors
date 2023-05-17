@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "508196642724",
+    "project_id": "smart-tutors",
+    "storage_bucket": "smart-tutors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508196642724:android:71389d9d855c000c3c6b31",
+        "android_client_info": {
+          "package_name": "com.example.bookworm1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508196642724-6i5850lsbve524c6n2h69uj8s94h2gvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVlJXpkUhe0Uso4E5sy3uRF7nsllwsig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508196642724-6i5850lsbve524c6n2h69uj8s94h2gvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508196642724-fp3mr848i1hcigecjcsftgj37nob2k4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookworm1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
